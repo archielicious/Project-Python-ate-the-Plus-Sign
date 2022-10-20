@@ -1,4 +1,4 @@
-#Program to convert a number from any base from base 2 to 9 to its decimal equivalent using doubling method
+#Program to convert a number in any base from base 2 to 9 to its decimal equivalent using doubling method
 def any_base_to_decimal_doubling():
     m=input('Enter the base from 2 to 9 in which the number is in')
     n=input('Enter the number you want to convert to decimal')
